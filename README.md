@@ -8,6 +8,6 @@
 </body>
 
 ### Current Screen Shot:
-![picture](Codepen-Challenge-2.png)
+![picture](codepen-challenge-2.png)
 
 
